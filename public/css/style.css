@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+table {
+    width: 80%;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    
+}
+
+.wider {
+    width: 100px;
+}
+
+td {
+    width: 50px;
+    height: 40px;
+}
+
+thead td {
+    background: #8b8a8a;
+    font-size: 1.5rem;
+}
+
+tbody td {
+    background-color: #d5d5d5;
+}
